@@ -1,5 +1,5 @@
 # Disney ESPN Assignment
-# Author: Stanley Young
+### Author: Stanley Young
 
 # Overview
 To use this app, get it up and running by following instructions in the quickstart section. Only keyboard navigation is supported using arrow keys (up, down, left, right) to move across content. `Enter` to select content and view more details. `Backspace` or `Esc` to exit the details modal. As you navigate horizontally and vertically across tiles, the app will auto-adjust.
